@@ -10,7 +10,7 @@ import json
 
 # setup
 
-client = genai.Client(api_key="AIzaSyAwTgh0zT9PCUZwNivIHdzAfJnDNc9hJfE")
+client = genai.Client(api_key="Enter Your API key Here")
 
 # welcome message
 
